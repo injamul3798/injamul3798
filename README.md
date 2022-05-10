@@ -1,5 +1,4 @@
-### Hi there 👋
-#This is Injamul Haque😊
+### Hi there 👋 This is Injamul Haque😊
 
 <!--
 **injamul3798/injamul3798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
