@@ -2,7 +2,7 @@ Hi there 👋
 This is Injamul Haque😊 . 
 I am studying BSc in Computer Science Engineering, DIU
 ### I’m also currently working on Object Oriented Programming. Also I’m learning Database management System now.
-You can contact with me by sending email or messa
+You can contact with me by sending email or message
 
 
 <!--
