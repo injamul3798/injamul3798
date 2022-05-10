@@ -1,8 +1,20 @@
-Hi there 👋 
-This is Injamul Haque😊 . <br/>
+Hi there 👋  <br/>
+###This is Injamul Haque😊 . <br/>
 I am studying BSc in Computer Science Engineering, DIU <br/>
 I’m also currently working on Object Oriented Programming. Also I’m learning Database management System now.<br/>
-You can contact with me by sending email or message
+ 
+ 
+I have skill in :
+- Data Structure and Algorithm(begineer)
+- Object Oriented Programming
+- Compettive programming with C,C++
+- Problem solving
+
+Also I have done some project using
+- C
+- Java
+- Python(with django)
+- GUI project
 
 
 <!--
