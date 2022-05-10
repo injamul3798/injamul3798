@@ -1,6 +1,6 @@
-### Hi there 👋 
-## This is Injamul Haque😊 . 
-# I’m currently working on Object Oriented Programming.Also I’m learning Database management System now.
+# Hi there 👋 
+# This is Injamul Haque😊 . 
+### I’m currently working on Object Oriented Programming.Also I’m learning Database management System now.
 
 
 <!--
