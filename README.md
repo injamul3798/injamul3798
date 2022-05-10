@@ -1,4 +1,7 @@
-### Hi there 👋 This is Injamul Haque😊
+### Hi there 👋 
+## This is Injamul Haque😊 . 
+# I’m currently working on Object Oriented Programming.Also I’m learning Database management System now.
+
 
 <!--
 **injamul3798/injamul3798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
