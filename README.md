@@ -3,18 +3,14 @@ Hi there 👋  <br/>
 I am studying BSc in Computer Science Engineering, DIU <br/>
 I’m also currently working on Object Oriented Programming. Also I’m learning Database management System now.<br/>
  
- 
 I have skill in :
 - Data Structure and Algorithm(begineer)
 - Object Oriented Programming
 - Compettive programming with C,C++
 - Problem solving
+- Django
 
-Also I have done some project using
-- C
-- Java
-- Python(with django)
-- GUI project
+
 
 
 <!--
