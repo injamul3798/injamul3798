@@ -1,13 +1,12 @@
 Hi there 👋  <br/>
 ### This is Injamul Haque😊 . <br/>
 I am studying BSc in Computer Science Engineering, DIU <br/>
-I’m also currently working on Object Oriented Programming. Also I’m learning Database management System now.<br/>
+I’m also currently working on database management system.And also learning Data Mining and Machine Learning<br/>
  
-I have skill in :
+I have skill in
 - Data Structure and Algorithm(begineer)
-- Object Oriented Programming
-- Compettive programming with C,C++
-- Problem solving
+- Object Oriented Programming with python,java,MYsql
+- Compettive programming
 - Django
 
 
