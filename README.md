@@ -1,16 +1,13 @@
 Hi there 👋  <br/>
 ### This is Injamul Haque😊 . <br/>
-I am studying BSc in Computer Science Engineering, DIU <br/>
-I’m also currently working on database management system.And also learning Data Mining and Machine Learning<br/>
+I am currently working on Data Mining and Machine Learning<br/>
  
 I have skill in
-- Data Structure and Algorithm(begineer)
+- Data Structure and Algorithm
 - Object Oriented Programming with python,java,MYsql
-- Compettive programming
+- Compettive programming,Problem Solving
 - Django
-
-
-
+- Database Management System
 
 <!--
 **injamul3798/injamul3798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
