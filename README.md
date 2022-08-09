@@ -5,10 +5,10 @@ My name is Injamul Haque.
 ### 🔭 I’m currently working on:
  -Python Project
  -Data Mining & Machine Learning. 
-  
- ### I’m currently learning
+ 
+ ### 🔭 I’m currently working on:
  -Artificial Intelligence(Academic)
-  -FullStack Devlopment.
+ -FullStack Devlopment. 
 
 📫 Contact with me:
   - [email](injamulhaque9117@gmail.com)
