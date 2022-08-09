@@ -1,6 +1,7 @@
 Hi there 👋  <br/>
-### This is Injamul Haque😊 . <br/>
-I am currently working on Data Mining and Machine Learning<br/>
+# Welcome To My Profile 👋
+
+My name is Injamul Haque.
  
 I have skill in
 - Data Structure and Algorithm
