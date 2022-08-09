@@ -9,7 +9,7 @@ My name is Injamul Haque.
 ###  I’m currently learning
 
 - Artificial Intelligence
-- FullStack
+- Machine Learning
 
 📫 Contact with me:
   - [email](mailto:injamulhaque9117@gmail.com)
