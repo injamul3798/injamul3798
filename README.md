@@ -3,8 +3,8 @@ Hi there 👋  <br/>
 
 My name is Injamul Haque.
 ### 🔭 I’m currently working on:
- -Python Project
- -Data Mining & Machine Learning. 
+-Python Project
+-Data Mining & Machine Learning. 
  
  ### 🔭 I’m currently working on:
  -Artificial Intelligence(Academic)
@@ -16,7 +16,7 @@ My name is Injamul Haque.
  
 I have skill in
 - Data Structure and Algorithm
-- Object Oriented Programming with python,java,MYsql
+- - Object Oriented Programming with python,java,MYsql
 - Compettive programming,Problem Solving
 - Django
 - Database Management System
