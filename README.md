@@ -3,8 +3,8 @@ Hi there 👋  <br/>
 
 My name is Injamul Haque.
 ### 🔭 I’m currently working on:
--Python Project
--Data Mining & Machine Learning. 
+  -Python Project
+  -Data Mining & Machine Learning. 
  
  ### 🔭 I’m currently working on:
  -Artificial Intelligence(Academic)
