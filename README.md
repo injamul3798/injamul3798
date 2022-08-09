@@ -2,6 +2,16 @@ Hi there 👋  <br/>
 # Welcome To My Profile 👋
 
 My name is Injamul Haque.
+### 🔭 I’m currently working on:
+  -Python Project
+  -Data Mining & Machine Learning. 
+  
+ ### I’m currently learning
+- Also I am learning Artificial Intelligence(Academic)
+-
+
+- FullStack Udacity NanoDegree
+
  
 I have skill in
 - Data Structure and Algorithm
