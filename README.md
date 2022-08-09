@@ -3,15 +3,16 @@ Hi there 👋  <br/>
 
 My name is Injamul Haque.
 ### 🔭 I’m currently working on:
-  -Python Project
-  -Data Mining & Machine Learning. 
- 
- ### 🔭 I’m currently working on:
- -Artificial Intelligence(Academic)
- -FullStack Devlopment. 
+  - Data mining & Machine Learning
+  - Python project
+
+###  I’m currently learning
+
+- Artificial Intelligence
+- FullStack
 
 📫 Contact with me:
-  - [email](injamulhaque9117@gmail.com)
+  - [email](mailto:injamulhaque9117@gmail.com)
 
  
 I have skill in
