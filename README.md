@@ -7,7 +7,7 @@ My name is Injamul Haque.
  -Data Mining & Machine Learning. 
   
  ### I’m currently learning
--Artificial Intelligence(Academic)
+ -Artificial Intelligence(Academic)
 - FullStack Devlopment.
 
 📫 Contact with me:
