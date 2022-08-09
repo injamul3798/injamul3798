@@ -8,9 +8,10 @@ My name is Injamul Haque.
   
  ### I’m currently learning
 - Also I am learning Artificial Intelligence(Academic)
--
-
 - FullStack Udacity NanoDegree
+
+📫 Contact with me:
+  - [email](injamulhaque9117@gmail.com)
 
  
 I have skill in
