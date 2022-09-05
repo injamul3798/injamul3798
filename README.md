@@ -3,13 +3,13 @@ Hi there 👋  <br/>
 
 My name is Injamul Haque.
 ### 🔭 I’m currently working on:
-  - Data mining & Machine Learning
+  -Django with Data mining & Machine Learning
   - Python project
 
 ###  I’m currently learning
 
 - Artificial Intelligence
-- Machine Learning
+- 
 
 📫 Contact with me:
   - [email](mailto:injamulhaque9117@gmail.com)
