@@ -8,11 +8,12 @@ My name is Injamul Haque.
 
 ###  I’m currently learning
 
-- Data Science
+- Deep learning
 
 📫 Contact with me:
   -[email](mailto:injamulhaque9117@gmail.com)
 I have skill in
+- Machine Leanrning 
 - Data Structure and Algorithm
 - Object Oriented Programming
 - Compettive programming
