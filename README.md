@@ -4,17 +4,14 @@ Hi there 👋  <br/>
 My name is Injamul Haque.
 ### 🔭 I’m currently working on:
   -Django with Data mining & Machine Learning
-  - Python project
+  -Python project
 
 ###  I’m currently learning
 
 - Artificial Intelligence
-- 
 
 📫 Contact with me:
   - [email](mailto:injamulhaque9117@gmail.com)
-
- 
 I have skill in
 - Data Structure and Algorithm
 - - Object Oriented Programming with python,java,MYsql
