@@ -15,7 +15,7 @@ My name is Injamul Haque.
 I have skill in
 - Data Structure and Algorithm
 - Object Oriented Programming
-- Compettive programming,Problem Solving
+- Compettive programming
 - Django
 - Database Management System
 
