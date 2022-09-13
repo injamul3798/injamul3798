@@ -3,18 +3,18 @@ Hi there 👋  <br/>
 
 My name is Injamul Haque.
 ### 🔭 I’m currently working on:
-  -Django with Data mining & Machine Learning
-  -Python project
+  -Data mining & Machine Learning
+  -Python project with django
 
 ###  I’m currently learning
 
-- Artificial Intelligence
+- Data Science
 
 📫 Contact with me:
-  - [email](mailto:injamulhaque9117@gmail.com)
+  -[email](mailto:injamulhaque9117@gmail.com)
 I have skill in
 - Data Structure and Algorithm
-- - Object Oriented Programming with python,java,MYsql
+- Object Oriented Programming
 - Compettive programming,Problem Solving
 - Django
 - Database Management System
