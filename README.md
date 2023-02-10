@@ -3,22 +3,21 @@ Hi there 👋  <br/>
 
 My name is Injamul Haque.
 ### 🔭 I’m currently working on:
-  -Data mining & Machine Learning
-  -Python project with django
+  -Machine Learning & Deep Learning
+  -Python
 
-###  I’m currently learning
-
-- Deep learning
+ 
 
 📫 Contact with me:
-  -[email](mailto:injamulhaque9117@gmail.com)
+  -[email](mailto:injamul15-3798@diu.edu.bd)
 I have skill in
+- Web Technologies(HTML,CSS,Javascript,Python,SQL)
 - Machine Leanrning 
 - Data Structure and Algorithm
 - Object Oriented Programming
 - Compettive programming
 - Django
-- Database Management System
+
 
 <!--
 **injamul3798/injamul3798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
