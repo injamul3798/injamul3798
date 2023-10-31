@@ -44,7 +44,7 @@
 ### Github Stats:
 
 
-<img align="left" alt="shreayan98c's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreayan98c&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
+<img align="left" alt="Injamul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Injamul&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreayan98c&theme=tokyonight" />
 
