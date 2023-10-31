@@ -2,13 +2,13 @@
 
  
 
-### I'm a Machine Learning enthusiast specialized in Deep Learning, Computer Vision. I like solving complex problems revolving around data. I am also a secondary Mobile developer!
-- 🔭 I’m currently researching and experimenting on Computer Vision research paper!
-- 🌱 I’m learning something new everyday.
+### I'm a Machine Learning enthusiast specializing in Deep Learning and Computer Vision. I like solving complex problems revolving around data. I am also a secondary Mobile developer!
+- 🔭 I’m currently researching and experimenting on a Computer Vision research paper!
+- 🌱 I’m learning something new every day.
 - 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
 
-- 💬 Ask me about Coding, Mobile devlopment and ML related stuff.
-- ⚡ Fun fact: I love playing cricket. I Love do coding and learn new things related to programming.
+- 💬 Ask me about Coding, Mobile development, and ML-related stuff.
+- ⚡ Fun fact: I love playing cricket. I Love coding and learning new things related to programming.
 
 ### Connect with me:
 
