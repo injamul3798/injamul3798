@@ -44,9 +44,9 @@
 ### Github Stats:
 
 
-<img align="left" alt="Injamul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Injamul&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
+<img align="left" alt="Injamul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=injamul3798&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreayan98c&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=injamul3798&theme=tokyonight" />
 
 [website]: https://sites.google.com/diu.edu.bd/injamulhaque/home
 [HackerRank]: https://www.hackerrank.com/profile/injamul_3798
