@@ -52,5 +52,5 @@
 [HackerRank]: https://www.hackerrank.com/profile/injamul_3798
 [Codechef]: https://www.codechef.com/users/injamul01_3798?fbclid=IwAR2ryJ8k9RIWH6-LCuR_BcSjIxaL93dJhYoXyy54NpdkK6X2SEl_iffb4eA
 [linkedin]: https://www.linkedin.com/in/md-injamul-haque-a053a4252/
-[facebook]:  
-[kaggle]: https://www.kaggle.com/shreayan98c
+ 
+ 
