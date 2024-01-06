@@ -2,7 +2,7 @@
 
  
 
-### I'm a Machine Learning enthusiast specializing in Deep Learning and Computer Vision. I like solving complex problems revolving around data. I am also a secondary Mobile developer!
+### I'm a Machine Learning enthusiast specializing in Natural Language Processing, Deep Learning and Computer Vision. I like solving complex problems revolving around data. I am also a secondary Mobile developer!
 - 🔭 I’m currently researching and experimenting on a Computer Vision research paper!
 - 🌱 I’m learning something new every day.
 - 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
