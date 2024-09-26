@@ -30,10 +30,10 @@
 
 ### 🚀 Key Projects
 
-- **Semi-automated Parking Management System**  
+- **Semi-automated Parking Management System(DevTechGuru Limited)**  
   Backend and AI feature development, including vehicle detection, manual entry reports, and revenue tracking using YOLOv8 and OCR for number plate recognition.
 
-- **Avail Ortho - Hip Overlay Project**  
+- **Avail Ortho - Hip Overlay Project(DevTechGuru Limited)**  
   Developed backend and AI features to optimize medical imaging for hip replacement surgeries, replacing traditional transparency paper with a digital solution.
 
 - **Web-ML Diabetes Predictor**  
