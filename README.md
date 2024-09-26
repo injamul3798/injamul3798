@@ -1,56 +1,93 @@
 ### Hi there, I'm Injamul! 👋 
 
- 
+### I'm a Machine Learning Engineer specializing in Deep Learning, Computer Vision, and Natural Language Processing. I love solving complex data problems and have a keen interest in mobile development.
 
-### I'm a Machine Learning enthusiast specializing in  Deep Learning, Computer Vision and Natural Language Processing. I like solving complex problems revolving around data. I am also a secondary Mobile developer!
-- 🔭 I’m currently researching and experimenting on a Computer Vision research paper!
-- 🌱 I’m learning something new every day.
-- 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
-
-- 💬 Ask me about Coding, Mobile development, and ML-related stuff.
-- ⚡ Fun fact: I love playing cricket. I Love coding and learning new things related to programming.
-
-### Connect with me:
-
-[<img align="left" alt="shreayan98c.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="shreayan98c | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="shreayan98c | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="shreayan98c | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="shreayan98c | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
-[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-[<img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][website]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-
-<br />
-<br />
+- 🔭 Currently working on various research papers and AI-based projects involving parking systems and medical imaging.
+- 🌱 Always learning something new every day.
+- 👯 Seeking collaboration with fellow developers for hackathons and open-source projects.
+- 💬 Feel free to ask me about coding, machine learning, or mobile development.
+- ⚡ Fun fact: I enjoy playing cricket and exploring new programming challenges.
 
 ---
 
-### Github Stats:
+### 🛠️ Educational Qualifications
 
+- **B.Sc. in Computer Science & Engineering** – Daffodil International University (2020 - 2024)  
+  CGPA: 3.75/4.00
+ 
+
+---
+
+### 💼 Professional Experience
+
+- **Machine Learning Engineer** – DevTechGuru Limited, Dhaka (February 2024 – Present)  
+  Working on parking and AI-based surgery projects. Responsibilities include vehicle counting, automated reporting, and performance improvement of machine learning models.
+
+- **Researcher (Member)** – Health Informatics Research Lab, DIU (December 2022 – Present)  
+  Conducting research in NLP, computer vision, and deep learning. Recently submitted a paper on gallbladder cancer and currently working on Graph Neural Networks and GANs.
+
+---
+
+### 🚀 Key Projects
+
+- **Semi-automated Parking Management System**  
+  Backend and AI feature development, including vehicle detection, manual entry reports, and revenue tracking using YOLOv8 and OCR for number plate recognition.
+
+- **Avail Ortho - Hip Overlay Project**  
+  Developed backend and AI features to optimize medical imaging for hip replacement surgeries, replacing traditional transparency paper with a digital solution.
+
+- **Web-ML Diabetes Predictor**  
+  Created a Django web app to predict diabetes risk using advanced ML techniques.
+
+---
+
+### 🛠️ Skills & Tools
+
+- **Languages:** Python, C, C++, Java, Dart, Kotlin, PostgreSQL
+- **ML & DL Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn
+- **Algorithms:** Supervised & Unsupervised Learning, GANs, Transfer Learning (VGG16, ResNet)
+- **Computer Vision:** OpenCV, YOLOv8
+- **NLP:** BERT, Text Classification, Sentiment Analysis
+- **Web Development:** HTML, CSS, JavaScript, Django, MySQL
+- **Platforms:** Anaconda, JupyterLab, Google Colab, Visual Studio Code
+
+---
+
+### 🏆 Competitive Programming
+
+- **[HackerRank](https://www.hackerrank.com/profile/injamul_3798)**  
+  Solved 200+ coding problems using C++ and Python.
+
+- **[CodeChef](https://www.codechef.com/users/injamul01_3798)**  
+  Active participant in contests, continually honing competitive programming skills.
+
+- **URI Online Judge**  
+  Participated and submitted solutions, enhancing algorithmic problem-solving skills.
+
+---
+
+### 📜 Certificates
+
+- **Intermediate Machine Learning Certificate (Kaggle)**  
+  Gained proficiency in XGBoost, cross-validation, pipelines, and data leakage prevention.
+
+- **Supervised Machine Learning: Classification and Regression (Coursera)**  
+  Covered algorithms like SVM, k-NN, Logistic Regression, and XGBoost through hands-on projects.
+
+---
+
+### 📊 Github Stats:
 
 <img align="left" alt="Injamul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=injamul3798&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=injamul3798&theme=tokyonight" />
 
+---
+
+### 🌐 Connect with Me:
+
+[<img align="left" alt="Injamul's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
+[<img align="left" alt="Injamul on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+
 [website]: https://sites.google.com/diu.edu.bd/injamulhaque/home
-[HackerRank]: https://www.hackerrank.com/profile/injamul_3798
-[Codechef]: https://www.codechef.com/users/injamul01_3798?fbclid=IwAR2ryJ8k9RIWH6-LCuR_BcSjIxaL93dJhYoXyy54NpdkK6X2SEl_iffb4eA
 [linkedin]: https://www.linkedin.com/in/md-injamul-haque-a053a4252/
- 
- 
