@@ -73,21 +73,4 @@
 
 - **Supervised Machine Learning: Classification and Regression (Coursera)**  
   Covered algorithms like SVM, k-NN, Logistic Regression, and XGBoost through hands-on projects.
-
----
-
-### 📊 Github Stats:
-
-<img align="left" alt="Injamul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=injamul3798&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=injamul3798&theme=tokyonight" />
-
----
-
-### 🌐 Connect with Me:
-
-[<img align="left" alt="Injamul's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
-[<img align="left" alt="Injamul on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-
-[website]: https://sites.google.com/diu.edu.bd/injamulhaque/home
-[linkedin]: https://www.linkedin.com/in/md-injamul-haque-a053a4252/
+ 
