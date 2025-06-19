@@ -1,12 +1,16 @@
 ### Hi there, I'm Injamul! 👋 
 
-### I'm a Machine Learning Engineer specializing in Deep Learning, Computer Vision, and Natural Language Processing. I love solving complex data problems and have a keen interest in mobile development.
+### I'm a Machine Learning Engineer specializing in Deep Learning, Computer Vision, and Natural Language Processing, with strong experience in backend systems and real-time AI applications. Passionate about solving real-world problems in healthcare, automation, and smart infrastructure.
 
-- 🔭 Currently working on various research papers and AI-based projects involving parking systems and medical imaging.
-- 🌱 Always learning something new every day.
-- 👯 Seeking collaboration with fellow developers for hackathons and open-source projects.
-- 💬 Feel free to ask me about coding, machine learning, or mobile development.
-- ⚡ Fun fact: I enjoy playing cricket and exploring new programming challenges.
+- 🔭 Currently working on AI-based projects involving:
+  - Smart parking systems using YOLOv8 for number plate detection (93% accuracy)
+  - Hip surgery assistance system with real-time C-Arm video feed integration for anatomical analysis
+  - Edge-based object detection and image segmentation for automation
+- 🌱 Constantly learning and exploring tools like Gemini API, LLMs, and OpenAI Whisper for speech/image-based intelligence
+- 👯 Looking to collaborate on research, open-source, or hackathon projects focused on AI, CV, or smart systems
+- 💬 Ask me about machine learning, computer vision, NLP, or backend API development
+- ⚡ Fun fact: I enjoy playing cricket and solving complex programming challenges in my free time
+
 
 ---
 
@@ -43,13 +47,14 @@
 
 ### 🛠️ Skills & Tools
 
-- **Languages:** Python, C, C++, Java, Dart, Kotlin, PostgreSQL
-- **ML & DL Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn
-- **Algorithms:** Supervised & Unsupervised Learning, GANs, Transfer Learning (VGG16, ResNet)
-- **Computer Vision:** OpenCV, YOLOv8
-- **NLP:** BERT, Text Classification, Sentiment Analysis
-- **Web Development:** HTML, CSS, JavaScript, Django, MySQL
-- **Platforms:** Anaconda, JupyterLab, Google Colab, Visual Studio Code
+- **Languages:** Python, C++, Java, PostgreSQL  
+- **ML & DL Frameworks:** LangChain, LLMs, TensorFlow, Keras, PyTorch, Scikit-learn  
+- **Algorithms:** Supervised & Unsupervised Learning, GANs, Transfer Learning  
+- **Computer Vision:** Deep Learning, Object Detection, Image Segmentation  
+- **NLP:** BERT, Text Classification, Sentiment Analysis  
+- **Web Development:** HTML, CSS, JavaScript, Flask, Django, MySQL, PostgreSQL  
+- **Platforms:** Anaconda, JupyterLab, Google Colab, Visual Studio Code  
+
 
 ---
 
