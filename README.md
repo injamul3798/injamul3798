@@ -3,8 +3,8 @@
 ### I'm a Machine Learning Engineer specializing in Deep Learning, Computer Vision, and Natural Language Processing, with strong experience in backend systems and real-time AI applications. Passionate about solving real-world problems in healthcare, automation, and smart infrastructure.
 
 - 🔭 Currently working on AI-based projects involving:
-  - Smart parking systems using YOLOv8 for number plate detection (93% accuracy)
-  - Hip surgery assistance system with real-time C-Arm video feed integration for anatomical analysis
+  - Developed Computer Vision based vehicle number plate detection (93% accuracy) with robust text extraction for automated entry; applied object detection and segmentation for edge-based real-time recognition.
+  - Contributed to the Hip Surgery Project by integrating the C-Arm machine with software to process image and video feeds using Python pipelines for real-time hip anatomy offset, leg length calculations, and surgical assistance.
   - Edge-based object detection and image segmentation for automation
 - 🌱 Constantly learning and exploring tools like Gemini API, LLMs, and OpenAI Whisper for speech/image-based intelligence
 - 👯 Looking to collaborate on research, open-source, or hackathon projects focused on AI, CV, or smart systems
