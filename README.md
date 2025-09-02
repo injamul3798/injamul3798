@@ -37,7 +37,7 @@ I'm an **AI Engineer** specializing in **Deep Learning**, **Computer Vision**, a
 
 ## 💼 Professional Journey
 
-### 🔥 **AI Engineer** | Interactive Cares | *August 2024 - Present*
+### 🔥 **AI Engineer** | Interactive Cares | *Jyly 2025 - Present*
 - 🤖 **AI Interview Systems:** Built enterprise-scale interview automation serving 500+ users
 - 🧠 **OpenAI Integration:** Designed three assistant model architecture for intelligent question generation
 - 🎯 **Performance Optimization:** Achieved 95% system uptime with advanced logging and security
