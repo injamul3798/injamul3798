@@ -43,7 +43,7 @@ I'm an **AI Engineer** specializing in **Deep Learning**, **Computer Vision**, a
 - 🎯 **Performance Optimization:** Achieved 95% system uptime with advanced logging and security
 - 🔊 **Multimedia Integration:** Implemented audio processing pipelines for enhanced user experience
 
-### ⚙️ **Machine Learning Engineer** | DevTechGuru Limited | *February 2024 - July 2024*
+### ⚙️ **Machine Learning Engineer** | DevTechGuru Limited | *February 2024 - July 2025*
 - 🚗 **Smart Parking:** AI-powered vehicle management processing 500+ daily transactions
 - 🏥 **Medical AI:** Hip surgery assistance platform deployed in 3 medical facilities
 - 📊 **Automation:** 85% process automation with comprehensive analytics and reporting
