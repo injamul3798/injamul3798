@@ -103,7 +103,6 @@ I'm an **AI Engineer** specializing in **Deep Learning**, **Computer Vision**, a
 - Reinforcement Learning
 
 ---
-
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
@@ -115,9 +114,12 @@ I'm an **AI Engineer** specializing in **Deep Learning**, **Computer Vision**, a
 
 **📧 Email:** injamulhaque9117@gmail.com  
 **📱 Phone:** +88-01745-449117  
-**📍 Location:** Dhaka, Bangladesh
+**📍 Location:** Dhaka, Bangladesh  
+
+**🎓 Actively seeking** **Master’s or PhD opportunities** in **Computer Science & Artificial Intelligence**, passionate about **cutting-edge research**, **innovative AI projects**, and **advancing next-generation AI technologies**.
 
 </div>
+
 
 ---
 
