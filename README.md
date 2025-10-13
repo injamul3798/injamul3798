@@ -57,35 +57,18 @@ I'm an **AI Engineer** specializing in **Deep Learning**, **Computer Vision**, a
 ---
 
 ---
-
 ## 🛠️ Technical Arsenal
 
-### 💻 **Programming Languages**
-Python • JavaScript • Java • C/C++ • TypeScript • SQL
+| Category | Key Skills |
+| :--- | :--- |
+| **Programming Languages** | Python • JavaScript • Java • C/C++ • SQL |
+| **AI/ML Frameworks & Libraries** | TensorFlow • PyTorch • Scikit-learn • Keras • OpenCV • YOLOv8 • BERT • Transformers |
+| **Backend Development** | Django • Flask • FastAPI • REST APIs • GraphQL |
+| **Frontend Development** | React • HTML5 • CSS3 • JavaScript ES6+ |
+| **Databases & Storage** | PostgreSQL • MySQL • MongoDB • Redis • SQLite |
+| **Cloud & DevOps** | AWS (EC2, S3) • Docker • Git • Linux • CI/CD • Deployment |
+| **AI Specializations** | **Generative AI & LLMs:** GPT, ChatGPT, Agentic Tools<br>**Computer Vision:** Object Detection, Image Segmentation, Medical Imaging, OCR<br>**Natural Language Processing:** BERT, Text Classification, Sentiment Analysis, Bengali NLP<br>**Deep Learning:** CNNs, RNNs, GANs, Transfer Learning, Graph Neural Networks<br>**MLOps:** Model Deployment, Real-time Processing, System Architecture, Performance Optimization |
 
-### 🤖 **AI/ML Frameworks & Libraries**
-TensorFlow • PyTorch • Scikit-learn • Keras • OpenCV • YOLOv8 • BERT • Transformers
-
-### 🌐 **Backend Development**
-Django • Flask • FastAPI • Node.js • REST APIs • GraphQL
-
-### 🎨 **Frontend Development**
-React • HTML5 • CSS3 • JavaScript ES6+ • Bootstrap • Responsive Design
-
-### 🗄️ **Databases & Storage**
-MySQL • PostgreSQL • MongoDB • Redis • DynamoDB • SQLite
-
-### ☁️ **Cloud & DevOps**
-AWS (EC2, S3, Lambda) • Docker • Git • Linux • CI/CD • Deployment
-
-### 🧠 **AI Specializations**
-- **Computer Vision:** Object Detection, Image Segmentation, Medical Imaging, OCR
-- **Natural Language Processing:** BERT, Text Classification, Sentiment Analysis, Bengali NLP
-- **Deep Learning:** CNNs, RNNs, GANs, Transfer Learning, Graph Neural Networks
-- **MLOps:** Model Deployment, Real-time Processing, System Architecture, Performance Optimization
-
-
----
 
 ## 🏆 Competitive Programming & Achievements
 
@@ -117,8 +100,7 @@ AWS (EC2, S3, Lambda) • Docker • Git • Linux • CI/CD • Deployment
 - Graph Neural Networks for Healthcare
 - Bengali Natural Language Processing
 - Computer Vision in Medical Imaging
-
-
+- Reinforcement Learning
 
 ---
 
