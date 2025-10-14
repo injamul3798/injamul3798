@@ -86,14 +86,36 @@ I'm an **AI Engineer** specializing in **Deep Learning**, **Computer Vision**, a
 ## 📜 Research & Publications
 
 ### 📝 **Published Papers**
-1. **"A Region-of-Interest Embedded Graph Neural Architecture for Gallbladder Cancer Detection"**  
-   *Q1 Journal (2024)* | [🔗 ResearchGate](https://www.researchgate.net/publication/389864226)
 
-2. **"NewsNet: A Comprehensive Neural Network Hybrid Model for Efficient Bangla News Categorization"**  
-   *International Conference (2024)* | [🔗 ResearchGate](https://www.researchgate.net/publication/385534601)
 
-3. **"An Efficient Framework for Transliteration Sentence Identification Using Hybrid BERT-BiGRU"**  
-   *International Conference (2024)* | [🔗 ResearchGate](https://www.researchgate.net/publication/385548116)
+## 📄 Publications
+
+1. **A region-of-interest embedded graph neural architecture for gallbladder cancer detection**  
+   S. Islam, Md. Injamul Haque, Mushrat Jahan, Md. Zahid Hasan, Md. Awlad Hossen Rony, Kaniz Fatema, Taslima Ferdaus Shuva, Muhammad Ali Abdullah Almoyad, Abdullah Al-Mamun Bulbul, Md. Tanvir Rahman, Md Whaiduzzaman, Touhid Bhuiyan, Mohammad Ali Moni  
+   *Results in Engineering, 26 (2025) 104624 — Available online 14 Mar 2025.*  
+   [View on ResearchGate](https://www.researchgate.net/publication/389864226_A_region-of-interest_embedded_graph_neural_architecture_for_gallbladder_cancer_detection). :contentReference[oaicite:0]{index=0}
+
+2. **NewsNet: A Comprehensive Neural Network Hybrid Model for Efficient Bangla News Categorization**  
+   Shakil Rana, Md. Injamul Haque, Naznin Sultana, Saiful Islam, …  
+   *Conference Paper — Jun 2024.*  
+   [View on ResearchGate](https://www.researchgate.net/publication/385534601_NewsNet_A_Comprehensive_Neural_Network_Hybrid_Model_for_Efficient_Bangla_News_Categorization). :contentReference[oaicite:1]{index=1}
+
+3. **Integrating Explainable AI and Machine Learning for Superior Brain Tumor MRI Classification**  
+   Md. Injamul Haque, Shakil Rana, Saiful Islam, …  
+   *Research — Sep 2025.*  
+   [View on ResearchGate](https://www.researchgate.net/publication/395990558_Integrating_Explainable_AI_and_Machine_Learning_for_Superior_Brain_Tumor_MRI_Classification). :contentReference[oaicite:2]{index=2}
+
+4. **An Efficient Framework for Transliteration Sentence Identification of Low Resource Languages Using Hybrid BERT-BiGRU**  
+   Saiful Islam, Md Jabed Hosen, Fowzia Rahman Taznin, Md. Injamul Haque, Shakil Rana, …  
+   *Conference Paper — Jun 2024.*  
+   [View on ResearchGate](https://www.researchgate.net/publication/385548116_An_Efficient_Framework_for_Transliteration_Sentence_Identification_of_Low_Resource_Languages_Using_Hybrid_BERT-BiGRU). :contentReference[oaicite:3]{index=3}
+
+5. **Impact of Lifestyle on Career: A Review**  
+   Md Jabed Hosen, Md. Injamul Haque, Saiful Islam, Ahmed Wasif Reza, …  
+   *Chapter — Dec 2023.*  
+   [View on ResearchGate](https://www.researchgate.net/publication/376642430_Impact_of_Lifestyle_on_Career_A_Review). :contentReference[oaicite:4]{index=4}
+
+
 
 ### 🔬 **Research Interests**
 - Medical AI and Healthcare Informatics
