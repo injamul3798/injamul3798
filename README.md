@@ -1,6 +1,9 @@
 # Hi there, I'm Injamul! 👋
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+Engineer+%7C+ML+Specialist;Computer+Vision+%7C+NLP+Researcher;Backend+Developer;Open+Source+Contributor" alt="Typing SVG" /> </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=AI+Engineer+%7C+ML+Specialist;Computer+Vision+%2B+NLP+Researcher+%7C+Generative+AI+%26+LLM+Enthusiast;Python+Backend+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</div>
+
 
 
 
