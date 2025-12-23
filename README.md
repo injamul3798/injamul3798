@@ -1,30 +1,32 @@
 # Hi there, I'm Injamul! 👋
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=AI+Engineer+%7C+ML+Specialist;Computer+Vision+%2B+NLP+Researcher+%7C+Generative+AI+%26+LLM+Enthusiast;Python+Backend+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-
-
-
 ## 🚀 About Me
 
-I'm an **AI Engineer** specializing in **Deep Learning**, **Computer Vision**, and **Natural Language Processing**, with strong experience in backend systems and real-time AI applications. Passionate about solving real-world problems in healthcare, automation, and smart infrastructure.
+I'm an **AI Engineer** specializing in **LLM applications**, **Computer Vision**, and **Natural Language Processing**, with strong expertise in building production-grade AI systems and scalable backend solutions.
 
 - 🔭 **Currently working at [Interactive Cares](https://www.interactivecares.com/) as AI Engineer**
-  - Engineered scalable AI Interview Assistant serving **500+ concurrent users** with OpenAI three assistant model architecture
-  - Built multi-agent systems with dynamic question generation achieving **95% accuracy**
-  - Implemented real-time session management reducing system latency by **40%**
-  - Created multimedia pipelines with text-to-speech integration
+  - Engineered multi-agent AI interview system supporting **500+ concurrent sessions** using GPT-5, GPT-4o-mini, and Gemini 2.5 Flash with **~60% cost optimization**
+  - Built enterprise chatbot using LangChain, Redis caching, and async processing - achieving **~45% response time reduction** and **~35% throughput improvement**
+  - Optimized STT/TTS pipelines (Faster-Whisper, Google TTS) reducing latency from **~2s to <200ms**
+  - Developed production-grade systems with CI/CD automation and secure coding practices
 
-- 🏥 **Previously at DevTechGuru Limited:**
-  - Developed Computer Vision based vehicle number plate detection (**93% accuracy**) for automated parking systems
-  - Contributed to Hip Surgery Project integrating C-ARM machines with real-time image processing
-  - Built medical imaging solutions for surgical assistance with **90% landmark detection accuracy**
+- 🏢 **Previously at DevTechGuru Limited (Jan 2024 - Jul 2025)**
+  - Developed AI-assisted Hip Surgery system integrating with hospital C-ARM, reducing pre-operative planning time by **~30%**
+  - Engineered vehicle number plate detection system using YOLOv8 achieving **93% accuracy** from live CCTV feeds
+  - Built Django-based parking management system with AI modules, REST APIs, and Redis caching - reducing API calls by **~40%** and improving data retrieval by **~30%**
+  - Implemented role-based access control system reducing unauthorized access by **~35%**
 
-- 🌱 Currently exploring: **Large Language Models**, **Multi-Agent Systems**, **Edge AI**, and **Real-time Audio Processing**
-- 👯 Looking to collaborate on: **AI Research**, **Open Source Projects**, **Healthcare AI**, and **Smart Systems**
-- 💬 Ask me about: **Machine Learning**, **Computer Vision**, **NLP**, **System Architecture**, and **AI Product Development**
+- 🔬 **ML Research Experience at Health Informatics Research Lab, DIU**
+  - Published research on CNN+RNN hybrid model for Bangla news categorization achieving **94.57% accuracy**
+  - Developed RGBNet (Graph Neural Network) for gallbladder cancer detection with **93%+ accuracy** - published in Q1 journal (Results in Engineering, Mar 2025)
+  - Contributed to medical AI research focusing on deep learning, NLP, and computer vision applications
+
+- 🌱 Currently exploring: **Agentic AI**, **Advanced RAG Systems**, **Multi-Agent Architectures**, and **Real-time AI Processing**
+- 👯 Looking to collaborate on: **AI Research**, **Open Source Projects**, **Healthcare AI**, and **LLM Applications**
+- 💬 Ask me about: **LLMs**, **RAG Pipelines**, **Computer Vision**, **System Architecture**, and **Production AI Deployment**
 - ⚡ Fun fact: Cricket enthusiast 🏏 and competitive programmer with **200+ problems solved**!
 
 ---
@@ -34,44 +36,23 @@ I'm an **AI Engineer** specializing in **Deep Learning**, **Computer Vision**, a
 **🎓 Bachelor of Science in Computer Science & Engineering**  
 **Daffodil International University** (2020 - 2024) | **CGPA: 3.74/4.00**
 
-**📚 Relevant Coursework:** Advanced Data Structures, Machine Learning, Computer Vision, Image Processing, Database Systems, Software Engineering
+**📚 Relevant Coursework:** Advanced Data Structures, Machine Learning, Computer Vision, Image Processing, Database Systems, Data Mining, Information Retrieval
 
 ---
 
-## 💼 Professional Journey
-
-### 🔥 **AI Engineer** | Interactive Cares | *Jyly 2025 - Present*
-- 🤖 **AI Interview Systems:** Built enterprise-scale interview automation serving 500+ users
-- 🧠 **OpenAI Integration:** Designed three assistant model architecture for intelligent question generation
-- 🎯 **Performance Optimization:** Achieved 95% system uptime with advanced logging and security
-- 🔊 **Multimedia Integration:** Implemented audio processing pipelines for enhanced user experience
-
-### ⚙️ **Machine Learning Engineer** | DevTechGuru Limited | *February 2024 - July 2025*
-- 🚗 **Smart Parking:** AI-powered vehicle management processing 500+ daily transactions
-- 🏥 **Medical AI:** Hip surgery assistance platform deployed in 3 medical facilities
-- 📊 **Automation:** 85% process automation with comprehensive analytics and reporting
-- 🔧 **Integration:** POS systems, C-ARM machines, and real-time image processing
-
-### 🔬 **ML Researcher** | Health Informatics Research Lab, DIU | *December 2022 - December 2023*
-- 📝 **Publications:** Q1 journal paper on Graph Neural Networks for cancer detection
-- 🧠 **Research Focus:** NLP, Computer Vision, Medical Imaging, and Deep Learning applications
-- 🌟 **Innovation:** Novel hybrid models for Bengali text processing and medical diagnostics
-
----
-
----
 ## 🛠️ Technical Arsenal
 
 | Category | Key Skills |
 | :--- | :--- |
-| **Programming Languages** | Python • JavaScript • Java • C/C++ • SQL |
-| **AI/ML Frameworks & Libraries** | TensorFlow • PyTorch • Scikit-learn • Keras • OpenCV • YOLOv8 • BERT • Transformers |
-| **Backend Development** | Django • Flask • FastAPI • REST APIs • GraphQL |
-| **Frontend Development** | React • HTML5 • CSS3 • JavaScript ES6+ |
-| **Databases & Storage** | PostgreSQL • MySQL • MongoDB • Redis • SQLite |
-| **Cloud & DevOps** | AWS (EC2, S3) • Docker • Git • Linux • CI/CD • Deployment |
-| **AI Specializations** | **Generative AI & LLMs:** GPT, ChatGPT, Agentic Tools<br>**Computer Vision:** Object Detection, Image Segmentation, Medical Imaging, OCR<br>**Natural Language Processing:** BERT, Text Classification, Sentiment Analysis, Bengali NLP<br>**Deep Learning:** CNNs, RNNs, GANs, Transfer Learning, Graph Neural Networks<br>**MLOps:** Model Deployment, Real-time Processing, System Architecture, Performance Optimization |
-
+| **Programming Languages** | Python • C++ • Java • JavaScript • SQL |
+| **Backend Development** | Django • FastAPI • Flask • RESTful API Design • Asyncio • Multithreading • Redis • MySQL |
+| **LLMs & Generative AI** | LangChain • LlamaIndex • OpenAI (GPT-5/4o/4) • Gemini Models • Prompt Engineering • Multi-agent Systems • Agentic AI • Fine-tuning • JSON-structured Outputs 
+| **RAG & Vector Databases** | Advanced RAG Pipelines • Embeddings • Document Loaders • Chunking Strategies • FAISS • Chroma • Pinecone • Weaviate • Semantic Search |
+| **ML & Deep Learning** | TensorFlow • PyTorch • Scikit-learn • Keras • NumPy • Pandas • Transfer Learning • Model Optimization |
+| **Computer Vision** | YOLOv8 • OpenCV • Image Segmentation • Object Detection • Medical Imaging • OCR |
+| **NLP** | BERT • Transformers • Text Classification • Sentiment Analysis • Bengali NLP • NLP Pipelines |
+| **Cloud & DevOps** | AWS EC2 • Docker • Git/GitHub • CI/CD •  Logging & Observability |
+| **Development Tools** | GitHub Copilot • Cursor • VS Code • Jupyter • Postman 
 
 ## 🏆 Competitive Programming & Achievements
 
@@ -79,7 +60,7 @@ I'm an **AI Engineer** specializing in **Deep Learning**, **Computer Vision**, a
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/injamul_3798)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/injamul01_3798)
 
-- 🏅 **200+ Problems Solved** across multiple platforms
+- 🏅 **500+ Problems Solved** across multiple platforms
 - 🎯 **Languages:** C++, Python, Java for competitive programming
 - 🧮 **Focus Areas:** Data Structures, Algorithms, Dynamic Programming, Graph Theory
 - 🏆 **Active Participation** in coding contests and challenges
@@ -145,16 +126,5 @@ I'm an **AI Engineer** specializing in **Deep Learning**, **Computer Vision**, a
 
 </div>
 
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=injamul3798&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  
-  **⭐ Star my repositories if you find them useful!**  
-  **🤝 Open to collaborations on AI/ML projects and research!**
-</div>
-
----
 
 *"Building intelligent systems that make a difference in healthcare, automation, and beyond. Let's create the future together!"* 🚀
