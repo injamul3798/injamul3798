@@ -8,7 +8,7 @@
 I'm an **AI Engineer** specializing in **LLM applications**, **Computer Vision**, and **Natural Language Processing**, with strong expertise in building production-grade AI systems and scalable backend solutions.
 
 - 🔭 **Currently working at [Interactive Cares](https://www.interactivecares.com/) as AI Engineer**
-  - Engineered multi-agent AI interview system supporting **500+ concurrent sessions** using GPT-5, GPT-4o-mini, and Gemini 2.5 Flash with **~60% cost optimization**
+  - Engineered multi-agent AI interview system supporting concurrent sessions** using GPT-5, GPT-4o-mini, and Gemini 2.5 Flash with **~60% cost optimization**
   - Built enterprise chatbot using LangChain, Redis caching, and async processing - achieving **~45% response time reduction** and **~35% throughput improvement**
   - Optimized STT/TTS pipelines (Faster-Whisper, Google TTS) reducing latency from **~2s to <200ms**
   - Developed production-grade systems with CI/CD automation and secure coding practices
