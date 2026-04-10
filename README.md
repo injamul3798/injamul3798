@@ -74,30 +74,36 @@ I'm an **AI Engineer** specializing in **LLM applications**, **Computer Vision**
 
 ## 📄 Publications
 
-1. **A region-of-interest embedded graph neural architecture for gallbladder cancer detection**  
+1. **Attention-driven deep object detection for improved gallbladder cancer diagnosis from ultrasound images**  
+   Md Injamul Haque, Saiful Islam, Sadia Sultana Chowa, Md Awlad Hossen Rony, Kaniz Fatema, Md Mehedi Hassan, Md Rafiqul Islam, Md Zahid Hasan, Asif Karim, Sami Azam  
+   *Engineering Applications of Artificial Intelligence, Volume 176, Part 1, 15 July 2026, 114757.*  
+   https://doi.org/10.1016/j.engappai.2026.114757  
+   [View on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0952197626010390)
+
+2. **A region-of-interest embedded graph neural architecture for gallbladder cancer detection**  
    S. Islam, Md. Injamul Haque, Mushrat Jahan, Md. Zahid Hasan, Md. Awlad Hossen Rony, Kaniz Fatema, Taslima Ferdaus Shuva, Muhammad Ali Abdullah Almoyad, Abdullah Al-Mamun Bulbul, Md. Tanvir Rahman, Md Whaiduzzaman, Touhid Bhuiyan, Mohammad Ali Moni  
    *Results in Engineering, 26 (2025) 104624 — Available online 14 Mar 2025.*  
-   [View on ResearchGate](https://www.researchgate.net/publication/389864226_A_region-of-interest_embedded_graph_neural_architecture_for_gallbladder_cancer_detection). :contentReference[oaicite:0]{index=0}
+   [View on ResearchGate](https://www.researchgate.net/publication/389864226_A_region-of-interest_embedded_graph_neural_architecture_for_gallbladder_cancer_detection)
 
-2. **NewsNet: A Comprehensive Neural Network Hybrid Model for Efficient Bangla News Categorization**  
+3. **NewsNet: A Comprehensive Neural Network Hybrid Model for Efficient Bangla News Categorization**  
    Shakil Rana, Md. Injamul Haque, Naznin Sultana, Saiful Islam, …  
    *Conference Paper — Jun 2024.*  
-   [View on ResearchGate](https://www.researchgate.net/publication/385534601_NewsNet_A_Comprehensive_Neural_Network_Hybrid_Model_for_Efficient_Bangla_News_Categorization). :contentReference[oaicite:1]{index=1}
+   [View on ResearchGate](https://www.researchgate.net/publication/385534601_NewsNet_A_Comprehensive_Neural_Network_Hybrid_Model_for_Efficient_Bangla_News_Categorization)
 
-3. **Integrating Explainable AI and Machine Learning for Superior Brain Tumor MRI Classification**  
+4. **Integrating Explainable AI and Machine Learning for Superior Brain Tumor MRI Classification**  
    Md. Injamul Haque, Shakil Rana, Saiful Islam, …  
    *Research — Sep 2025.*  
-   [View on ResearchGate](https://www.researchgate.net/publication/395990558_Integrating_Explainable_AI_and_Machine_Learning_for_Superior_Brain_Tumor_MRI_Classification). :contentReference[oaicite:2]{index=2}
+   [View on ResearchGate](https://www.researchgate.net/publication/395990558_Integrating_Explainable_AI_and_Machine_Learning_for_Superior_Brain_Tumor_MRI_Classification)
 
-4. **An Efficient Framework for Transliteration Sentence Identification of Low Resource Languages Using Hybrid BERT-BiGRU**  
+5. **An Efficient Framework for Transliteration Sentence Identification of Low Resource Languages Using Hybrid BERT-BiGRU**  
    Saiful Islam, Md Jabed Hosen, Fowzia Rahman Taznin, Md. Injamul Haque, Shakil Rana, …  
    *Conference Paper — Jun 2024.*  
-   [View on ResearchGate](https://www.researchgate.net/publication/385548116_An_Efficient_Framework_for_Transliteration_Sentence_Identification_of_Low_Resource_Languages_Using_Hybrid_BERT-BiGRU). :contentReference[oaicite:3]{index=3}
+   [View on ResearchGate](https://www.researchgate.net/publication/385548116_An_Efficient_Framework_for_Transliteration_Sentence_Identification_of_Low_Resource_Languages_Using_Hybrid_BERT-BiGRU)
 
-5. **Impact of Lifestyle on Career: A Review**  
+6. **Impact of Lifestyle on Career: A Review**  
    Md Jabed Hosen, Md. Injamul Haque, Saiful Islam, Ahmed Wasif Reza, …  
    *Chapter — Dec 2023.*  
-   [View on ResearchGate](https://www.researchgate.net/publication/376642430_Impact_of_Lifestyle_on_Career_A_Review). :contentReference[oaicite:4]{index=4}
+   [View on ResearchGate](https://www.researchgate.net/publication/376642430_Impact_of_Lifestyle_on_Career_A_Review)
 
 
 
