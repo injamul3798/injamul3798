@@ -3,12 +3,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=AI+Engineer+%7C+ML+Specialist;Computer+Vision+%2B+NLP+Researcher+%7C+Generative+AI+%26+LLM+Enthusiast;Python+Backend+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm an **AI Engineer** specializing in **LLM applications**, **Computer Vision**, and **Natural Language Processing**, with strong expertise in building production-grade AI systems and scalable backend solutions.
 
-- 🔭 **Currently working at [Interactive Cares](https://www.interactivecares.com/) as AI Engineer**
-  - Engineered multi-agent AI interview system supporting concurrent sessions** using GPT-5, GPT-4o-mini, and Gemini 2.5 Flash with **~60% cost optimization**
+- 🔭 **Currently working at Agentica AI as AI Engineer (L2) (Aug 2026 - Present)**
+  - Working on multi-agent Retrieval-Augmented Generation (RAG) and LLM-based applications.
+  - Designing collaborative agent workflows and advanced retrieval strategies to build scalable generative AI systems.
+
+- 🏢 **Previously at [Interactive Cares](https://www.interactivecares.com/) (Jul 2025 - 2026) as AI Engineer**
+  - Engineered multi-agent AI interview system supporting concurrent sessions using GPT-5, GPT-4o-mini, and Gemini 2.5 Flash with **~60% cost optimization**
   - Built enterprise chatbot using LangChain, Redis caching, and async processing - achieving **~45% response time reduction** and **~35% throughput improvement**
   - Optimized STT/TTS pipelines (Faster-Whisper, Google TTS) reducing latency from **~2s to <200ms**
   - Developed production-grade systems with CI/CD automation and secure coding practices
