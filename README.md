@@ -7,7 +7,7 @@
 
 I'm an **AI Engineer** specializing in **LLM applications**, **Computer Vision**, and **Natural Language Processing**, with strong expertise in building production-grade AI systems and scalable backend solutions.
 
-- 🔭 **Currently working at Agentica AI as AI Engineer (L2) (Aug 2026 - Present)**
+- 🔭 **Currently working at Agentica AI as AI Engineer (L2) (July 2026 - Present)**
   - Working on multi-agent Retrieval-Augmented Generation (RAG) and LLM-based applications.
   - Designing collaborative agent workflows and advanced retrieval strategies to build scalable generative AI systems.
 
